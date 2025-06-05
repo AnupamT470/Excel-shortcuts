@@ -5,4 +5,20 @@ Pivot table
 choose new or existing
 
 right click on the pivot table coloumns to make changes to format eg number value shoud be 0 decimals
+**************************************************************
+Create calculated field inside a pivot table:
+click inside the pivot table and go to Pivot Table Analyse tab in the excel header
+Go to fields, items and sets
+select calculated field
+In the dialogue box that opens add field name and formula eg if average then which field divided by which field mention that
+
+Now to edit this formula you have to follow same steps and when dialogue boc opens select he respective formula from the dropdown
+*******************************************
+
+To group fields in pivot table 
+select the first row so if in a column there is x1, x2, x3 and we need to group them select x1 then press shift key and down arrow until x3 and then right click on the selection, go to group and click this makes group
+*********************************
+To group data into bucket:
+select the coloumn you want to group , right click on it and select group a dialogue box will open enter the 3 values for eg. Create buckets for firld age by groups of 25 from 0 to 100
+
 
