@@ -3,3 +3,6 @@ Select the contents from the excel sheet
 go to insert tab
 Pivot table
 choose new or existing
+
+right click on the pivot table coloumns to make changes to format eg number value shoud be 0 decimals
+
